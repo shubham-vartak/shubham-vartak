@@ -67,13 +67,8 @@
 
 <br />
 <hr />
-
-<p align="center"># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubham-vartak&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-vartak&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-vartak&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></p>
+<img height="150px" width="1000px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-vartak&layout=compact&hide_border=false&theme=algolia&bg_color=#10217B&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-vartak&theme=algolia" alt="7oSkaaa" /></p>
 <br>
  <p>&#169;created by @Shubham</p>
