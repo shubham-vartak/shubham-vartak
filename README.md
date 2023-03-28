@@ -9,7 +9,7 @@
 </p>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=shubham-vartak" width=120px alt="shubham-vartak" /> </div>
-
+<br>
 <img align="right" alt="Coding" width="400" src="java.jpg">
 
 🔭 I’m currently working at **Lexi Devices as Java Developer/Software Developer**
