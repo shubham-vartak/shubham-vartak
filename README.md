@@ -10,12 +10,16 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=shubham-vartak" width=120px alt="shubham-vartak" /> </div>
 <br>
-<img align="right" alt="Coding" width="400" src="java.jpg">
+<img align="right" alt="Coding" width="400" src="code.gif">
 
-🔭 I’m currently working at **Lexi Devices as Java Developer/Software Developer**
+🔭 I’m currently working as **Java Developer at LEXI Devices**
 
-🌱 I’m currently looking forward to learn **Java Development(Advanced)**
+🌱 I’m currently looking forward to learn & explore **Cloud Tech || Blockchain || Internet Of Things(IOT)**
 
+👨‍💻 I’m looking to collaborate on **open source/commercial projects**
+
+😎 Fun Facts : ▪️ My first line of code was not "Hello World!"
+ 
 📫 How to reach me : **shubhamvartak01@gmail.com**
 
 ⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcode,etc.
@@ -24,7 +28,8 @@
 <br />
 <br />
 <hr />
-
+**If you're still reading, why not follow me ?? Let's Connect 🤝 !!**
+<br />
 <h3 align="center">Connect with me:</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011149623551)
@@ -53,4 +58,5 @@
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-vartak&theme=algolia" alt="7oSkaaa" /></p>
 <br>
+
  <p>&#169;created by @Shubham</p>
