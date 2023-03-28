@@ -28,7 +28,7 @@
 <br />
 <br />
 <hr />
-**If you're still reading, why not follow me ?? Let's Connect 🤝 !!**
+If you're still reading, why not follow me ?? **Let's Connect 🤝 !!**
 <br />
 <h3 align="center">Connect with me:</h3>
 
