@@ -27,6 +27,8 @@
 🧑‍💻 want to Know more about me ? <a href="https://shubham-vartak.github.io" target="_blank"><b>My Portfolio</b></a>
 <br />
 <br />
+[![An image of @shubhamvartak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamvartak)](https://holopin.io/@shubhamvartak)
+<br />
 <hr />
 If you're still reading, why not follow me ?? Let's Connect 🤝 !!
 <br />
