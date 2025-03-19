@@ -66,7 +66,7 @@ If you're still reading, why not follow me ?? Let's Connect 🤝 !!
 <hr />
 <img height="150px" width="1000px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-vartak&layout=compact&hide_border=false&theme=algolia&bg_color=#10217B&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <br>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-vartak&theme=blue-green" alt="GitHub Streak" /></a></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-vartak&theme=blue-green" alt="GitHub Streak" /></a></p>
 <br>
 
  <p>&#169;created by @Shubham</p>
