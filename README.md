@@ -34,7 +34,7 @@ If you're still reading, why not follow me ?? Let's Connect 🤝 !!
 <br />
 <h3 align="center">Connect with me:</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011149623551)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shubhamvartak01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubhamvartak01?utm_medium=copy_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-vartak-882916206) 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shubham_Vartak/)
@@ -66,7 +66,7 @@ If you're still reading, why not follow me ?? Let's Connect 🤝 !!
 <hr />
 <img height="150px" width="1000px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-vartak&layout=compact&hide_border=false&theme=algolia&bg_color=#10217B&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-vartak&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-vartak&theme=blue-green" alt="GitHub Streak" /></a></p>
 <br>
 
  <p>&#169;created by @Shubham</p>
